@@ -8,7 +8,7 @@ Work-Flow:
 
                                                Importing Necessary libraries
                                                               |
-                                                   Data Cleaning and Transformation
+                                              Data Cleaning and Transformation
                                                               |
                                                       Feature Engineering
                                                               |
@@ -16,6 +16,6 @@ Work-Flow:
                                                               |
                                                       K-Means Clustering 
                                                               |
-                                                  Cluster Analysis and Profiling
+                                              Cluster Analysis and Profiling
                                                               |
-                                                       Recommendation System 
+                                                    Recommendation System 
