@@ -1,21 +1,25 @@
--Tools & technologies used:Numpy,Pandas,Scikit-learn,Matplotlib and Seaborn,K-Means
+Customer Recommendation System
 
-– Elevating online retail efficiency through customer segmentation and K-means clustering analysis of a 2010-2011
-transactional dataset, followed by the development of a targeted recommendation system to optimize marketing
-strategies and drive increased sales.
+Dataset : 
 
-Work-Flow:
+Workflow:
 
-                                               Importing Necessary libraries
-                                                              |
-                                              Data Cleaning and Transformation
-                                                              |
-                                                      Feature Engineering
-                                                              |
-                                           Correlation Analysis & Dimensionality Reduction
-                                                              |
-                                                      K-Means Clustering 
-                                                              |
-                                              Cluster Analysis and Profiling
-                                                              |
-                                                    Recommendation System 
+Importing necessary libraries.
+Data cleaning and transformation.
+Feature engineering.
+Correlation analysis & dimensionality reduction.
+K-Means clustering.
+Cluster analysis and profiling.
+Recommendation system implementation.
+
+Key Steps:
+Data cleaning: Handle missing values, remove duplicates, and correct anomalies.
+Feature engineering: Create RFM features, analyze product diversity, and derive behavioral insights.
+Clustering: Apply K-Means clustering to segment customers.
+Profiling: Analyze and profile customer clusters.
+Recommendation system: Suggest products based on customer cluster preferences.
+
+Methodology:
+Utilizes advanced techniques in data preprocessing, clustering, and profiling.
+Offers personalized recommendations to enhance customer satisfaction and tailor marketing strategies.
+
